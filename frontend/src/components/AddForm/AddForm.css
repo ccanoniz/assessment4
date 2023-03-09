@@ -1,0 +1,24 @@
+.addFormDiv {
+  margin-top: 20px;
+  background-color: #FFFAFA;
+  border-radius: 25px;
+  border: 1px solid  #FFFAFA;
+  padding: 20px;
+  margin: 20px 20px 20px;
+}
+
+.add-form-header {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  margin: 30px 20px 20px;
+  font-size: 1.8rem;
+  line-height: 1.11001;
+}
+
+.add-from-image-viewer {
+  padding-top: 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+   
+
