@@ -18,13 +18,18 @@ Backend : Django Rest Framework
 
 Frontend : React JS
 
-3rd Party APIs Users: 
+3rd Party APIs Used: 
  - [Gratitude Journaling](https://cloudinary.com/) -  For uploading a photo from your local machine and save it to the cloud 
  - [Giphy](https://developers.giphy.com/docs/api/) - For searching and adding a gif
+
 Libraries 
 - [Papa Parse](https://www.papaparse.com/docs) - To use Google Sheet to store data for easy maintenance 
 
 Here is the Google Sheet for the [Random Stuff Generator](https://docs.google.com/spreadsheets/d/1bkGJYdeAwqTpelHbogrj7uPVuIg9vPM-bMVQxnaNeSM/edit#gid=0)
+
+Others
+- Docker 
+- AWS 
 
 ## Future Releases 
 
